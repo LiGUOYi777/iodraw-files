@@ -57,7 +57,7 @@
         <mxCell id="3C8b3x-lk6Na_gyKlW6D-19" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 8px;&quot;&gt;空间注意力模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="433" y="220" width="37" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3C8b3x-lk6Na_gyKlW6D-20" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=61;gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="3C8b3x-lk6Na_gyKlW6D-20" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=-180;size=61;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="489.43" y="195.52" width="70.57" height="64.48" as="geometry" />
         </mxCell>
         <mxCell id="3C8b3x-lk6Na_gyKlW6D-22" value="" style="endArrow=blockThin;html=1;rounded=0;strokeWidth=0.5;endFill=1;entryX=-0.035;entryY=0.872;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3C8b3x-lk6Na_gyKlW6D-18">
