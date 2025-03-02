@@ -63,13 +63,8 @@
         <mxCell id="uDZbCDSEklWACP8jJJDj-30" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;通道注意力图&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="884.7" y="270" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SiFRYxZiiLchHdGbfapA-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;fontSize=12;curved=1;" edge="1" target="SiFRYxZiiLchHdGbfapA-2" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="635" y="485" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SiFRYxZiiLchHdGbfapA-2" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="480" width="10" height="10" as="geometry" />
+        <mxCell id="SiFRYxZiiLchHdGbfapA-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="560" y="265" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
