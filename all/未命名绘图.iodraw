@@ -21,16 +21,16 @@
         <mxCell id="uDZbCDSEklWACP8jJJDj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;" parent="1" source="uDZbCDSEklWACP8jJJDj-1" target="uDZbCDSEklWACP8jJJDj-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uDZbCDSEklWACP8jJJDj-1" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;全局平均池化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="uDZbCDSEklWACP8jJJDj-1" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;&lt;b&gt;全局平均池化&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="279" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uDZbCDSEklWACP8jJJDj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;" parent="1" source="uDZbCDSEklWACP8jJJDj-2" target="uDZbCDSEklWACP8jJJDj-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uDZbCDSEklWACP8jJJDj-2" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;全局最大池化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="uDZbCDSEklWACP8jJJDj-2" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;&lt;b&gt;全局最大池化&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="279" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uDZbCDSEklWACP8jJJDj-5" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;输入特征&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="uDZbCDSEklWACP8jJJDj-5" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;&lt;b&gt;输入特征&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="310" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uDZbCDSEklWACP8jJJDj-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;" parent="1" source="uDZbCDSEklWACP8jJJDj-7" target="uDZbCDSEklWACP8jJJDj-19" edge="1">
@@ -60,13 +60,13 @@
             <mxPoint x="449" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uDZbCDSEklWACP8jJJDj-19" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;Concat&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uDZbCDSEklWACP8jJJDj-19" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Concat&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="295" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="uDZbCDSEklWACP8jJJDj-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;" parent="1" source="uDZbCDSEklWACP8jJJDj-22" target="uDZbCDSEklWACP8jJJDj-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uDZbCDSEklWACP8jJJDj-22" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;Conv&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uDZbCDSEklWACP8jJJDj-22" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Conv&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="295" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="uDZbCDSEklWACP8jJJDj-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.498;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=1;" parent="1" source="uDZbCDSEklWACP8jJJDj-19" target="uDZbCDSEklWACP8jJJDj-22" edge="1">
