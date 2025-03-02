@@ -19,8 +19,8 @@
         <mxCell id="3C8b3x-lk6Na_gyKlW6D-7" value="&lt;font style=&quot;font-size: 8px;&quot; face=&quot;宋体&quot;&gt;通道注意力模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="253" y="238" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3C8b3x-lk6Na_gyKlW6D-8" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=-210;size=22;" vertex="1" parent="1">
-          <mxGeometry x="160" y="188" width="30" height="32" as="geometry" />
+        <mxCell id="3C8b3x-lk6Na_gyKlW6D-8" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=135;size=22;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="258" width="30" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
