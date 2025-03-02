@@ -7,7 +7,7 @@
         <mxCell id="3C8b3x-lk6Na_gyKlW6D-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="152.5" y="287.5" width="55" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uDZbCDSEklWACP8jJJDj-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uDZbCDSEklWACP8jJJDj-1" value="&lt;font face=&quot;宋体&quot;&gt;全局平均池化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
